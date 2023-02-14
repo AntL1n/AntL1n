@@ -12,10 +12,10 @@ My programming languages:
 JavaScript, React, HTML, CSS, SCSS, Bootstrap, REST API, GULP
 
 Accomplishments:
-Websites for Ukrainian security manufacturers
-Websites for training and development of marketing companies
-CRM development
-Landing development
+&nbsp;Websites for Ukrainian security manufacturers
+&nbsp;Websites for training and development of marketing companies
+&nbsp;CRM development
+&nbsp;Landing development
 
 ## 🤓 Languages and tools
 
