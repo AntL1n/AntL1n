@@ -6,16 +6,25 @@
 
 ## Few words about me
 
-Hi! My name is Anton Zdorovets, I worked as Front End Developer and currently looking for a job, where I can grow as developer.
+Hi! My name is Anton Zdorovets. I am a Software Developer with strong experience in building web applications and delivering production-ready solutions. Over the years, I have worked on projects ranging from corporate websites and CRM systems to full product development, focusing on performance, scalability, and user experience. I am looking for a position where I can take ownership of complex tasks, contribute to product architecture, and grow further as a professional.
 
-My programming languages:
-JavaScript, React, HTML, CSS, SCSS, Bootstrap, REST API, GULP
+Tech stack:
+
+Frontend: HTML, CSS, SCSS, JavaScript (ES6+), React, Next.js, Bootstrap, Tailwind
+
+Backend: PHP, Node.js
+
+Other: Git, REST API integration, optimization, cross-browser development
 
 Accomplishments:
-Websites for Ukrainian security manufacturers&nbsp;
-Websites for training and development of marketing companies&nbsp;
-CRM development&nbsp;
-Landing development&nbsp;
+
+Developed websites for Ukrainian security manufacturers (production use, long-term support).
+
+Built training and marketing platforms for international companies.
+
+Designed and implemented CRM systems tailored to business needs.
+
+Contributed to product development and optimization, improving performance and user experience.
 
 ## 🤓 Languages and tools
 
