@@ -2,7 +2,7 @@
 
 ---
 
-### I am front-end developer 😎
+### I am Software developer 😎
 
 ## Few words about me
 
